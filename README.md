@@ -23,4 +23,4 @@ Demo on how to look up a GitHub username as well as looking at open issues withi
 ![Git it Done](https://user-images.githubusercontent.com/101689362/186307451-334c88ad-9553-42fc-82d8-a4071ce7eec3.gif)
 
 ## Contributions
-No contributions is being accepted at this time.
+No contributions are being accepted at this time.

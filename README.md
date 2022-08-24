@@ -9,7 +9,7 @@ Git-it-done is a web application that relies on GitHub's API to be able to searc
 - [Installation](#Installation)
 - [Deployed Link](#Deployed-Link)
 - [Usage](#Usage)
-- [Contributing](#Contributing)
+- [Contributions](#Contributions)
 
 
 ## Installation
